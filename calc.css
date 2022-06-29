@@ -13,10 +13,17 @@ button {
     color: white;
     font-weight: bold;
     width: 200px;
+    margin-top: 20px;
     margin-bottom: 5px;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
-#calc-button {
+#mult-button {
+    background-color: blueviolet;
+}
+#sum-button {
+    background-color: blueviolet;
+}
+#div-button {
     background-color: blueviolet;
 }
